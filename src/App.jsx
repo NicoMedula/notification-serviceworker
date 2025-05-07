@@ -66,7 +66,7 @@ export default function App() {
     <div className="flex flex-col items-center justify-center h-screen p-6 text-white bg-gradient-to-br from-blue-400 to-purple-600">
       <h1 className="mb-4 text-4xl font-bold">Notificaciones con ServiceWorker</h1>
       <p className="max-w-md mb-6 text-center">
-        Esta aplicación muestra notificaciones cada 10 segundos desde una API simulada.
+        Muestra notificaciones cada 10 segundos desde una API simulada.
         Puedes también enviar una notificación manualmente con el botón.
       </p>
       <button
